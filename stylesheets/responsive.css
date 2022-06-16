@@ -1,10 +1,24 @@
 /* INDEX */
 
-@media all and (max-width: 1920px) and (min-width: 1793px){
-div .raz, div .dva, div .tri, div .cheture {font-size: 29.5px;}
+@media all and (max-width: 1920px) and (min-width: 1600px){
+div .headertxt_1 {font-size: 72px;}
+div .headertxt_4 {margin-top: 16%;}
+div .headertxt_3, div .headertxt_2, div .headertxt_4 {font-size: 30px;}
+div .button {font-size: 30px;}
+div .totry, div .tofind, div .tochoose, div .tofind2 {padding: 25px 48px;}
+div .resttxt, div .caftxt, div .bartxt {font-size: 48px;}
+div .resttxt {margin-left: 7.3%;}
+div .caf_div, div .bar_div {margin-top: -43.2%;}
+div .infotxt_1, div .infotxt_3, div .kitchentxt_1 {font-size: 58px;}
+div .infotxt_2, div .infotxt_4, div .kitchentxt_2, div .footerrtxt_2, div .footerrtxt_3, div .footerrtxt_4 {font-size: 30px;}
+div .infotxt_4 {margin-top: 14.5%;}
+div .footerrtxt_1 {margin-left: 23%;font-size: 73px;}
+div .tofind2 {margin-left: 40%;}
+
+/* div .raz, div .dva, div .tri, div .cheture {font-size: 29.5px;}
 div .contacttxt, div .booktxt, div .prostranstvotxt, div .teamtxt, div .abouttxt, div .repertuartxt {font-size: 32px;}
 div .plakat3txt, div .plakat2txt, div .plakat1txt, div .plakat4txt, div .plakat5txt, div .plakat6txt {font-size: 21px;}
-div .eventstxt {font-size: 45px;}
+div .eventstxt {font-size: 45px;} */
 }
 
 
