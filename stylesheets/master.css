@@ -1,8 +1,6 @@
 @import "reset.css";
 @import "responsive.css";
 
-
-
 @font-face {
 font-family: "Montserrat-bold";
 font-weight: bold;
@@ -216,7 +214,7 @@ opacity: 0.75;
 margin-top: 5%;
 margin-left: 3%;
 font-size: 58px;
-color: #131313;
+color: black;
 }
 
 
