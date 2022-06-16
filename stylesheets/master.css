@@ -54,6 +54,14 @@ position: absolute;
 opacity: 1;
 }
 
+h3 {
+font-family: "Montserrat-regular";
+font-size: 29px;
+color: #131313;
+position: absolute;
+opacity: 1;
+}
+
 /* h3 {
 font-family: "PT Mono";
 font-size: 20px;
@@ -71,8 +79,9 @@ white-space: nowrap;
 }
 
 button {
-font-family: "Montserrat-regular";
-font-size: 30px;
+font-family: "Montserrat-semibold";
+font-size: 21px;
+color: #FFFCF7;
 position: absolute;
 z-index: 9999;
 border: none;
@@ -84,6 +93,12 @@ background: black;
 outline-style: none;
 }
 
+.totry {
+border-radius: 35px;
+margin-left: 3%;
+margin-top: 27%;
+padding: 18px 37px;
+}
 /* .swal-title {
 color: black;
 font-family: "Apoc";
@@ -160,8 +175,8 @@ margin-top: -2%;
 .logoimg {}
 
 .logoimg_div {
-width: 6%;
-margin-top: -54%;
+width: 7%;
+margin-top: -58%;
 margin-left: 3%;
 }
 
@@ -217,42 +232,24 @@ font-size: 58px;
 color: black;
 }
 
-
-
-.eventstxt {
-left: 44.9%;
-top: 1%;
+.headertxt_2 {
+  margin-top: -4%;
+  margin-left: 14%;
+  font-size: 23px;
 }
 
-.contacttxt {
-top: 9.5%;
-left: 14%;
+.headertxt_3 {
+  margin-top: -4%;
+  margin-left: 25%;
+  font-size: 23px;
 }
 
-.booktxt {
-top: 37.5%;
-left: 25.8%;
+.headertxt_4 {
+margin-top: 17%;
+margin-left: 3%;
+font-size: 23px;
 }
 
-.prostranstvotxt {
-top: 52%;
-left: 18.4%;
-}
-
-.teamtxt {
-top: 21.6%;
-left: 42.2%;
-}
-
-.abouttxt {
-top: 31.7%;
-left: 54.3%;
-}
-
-.repertuartxt {
-top: 26.1%;
-left: 86.4%;
-}
 
 .raz {
 top: 6%;
