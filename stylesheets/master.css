@@ -164,7 +164,7 @@ width: 31%;
 
 .caf_div{
   margin-left: 34.45%;
-  margin-top: -43.3%;
+  margin-top: -43.25%;
       width: 31%;
 }
 
@@ -215,6 +215,27 @@ width: 94%;
 }
 
 .reelcardimg {}
+
+  .reelcard2_div {
+  margin-left: 3%;
+  margin-top: -30.6%;
+  width: 94%;
+  opacity: 0;
+  animation: change 3s infinite;
+  animation-timing-function: ease-in-out;
+  }
+
+  .reelcard2img {}
+
+@keyframes change {
+  0% {
+  opacity: 1;
+  }
+
+  100% {
+  opacity: 0;
+  }
+}
 
 .kitchen_div {
 margin-left: 3%;
