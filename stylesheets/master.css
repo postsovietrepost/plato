@@ -37,21 +37,21 @@ height: auto;
 html {
 width: 100%;
 overflow-x: hidden;
-background-color: white;
+background-color: #FFFCF7;
 scroll-behavior: smooth;
 }
 
 h1 {
 font-family: "Montserrat-bold";
-font-size: 42px;
-color: white;
+font-size: 38px;
+color: #131313;
 position: absolute;
 }
 
 h2 {
 font-family: "Montserrat-semibold";
 font-size: 29px;
-color: white;
+color: #131313;
 position: absolute;
 opacity: 1;
 }
@@ -66,7 +66,7 @@ opacity: 1;
 
 p {
 overflow: hidden;
-color: white;
+color: #131313;
 font-size: 28px;
 position: absolute;
 white-space: nowrap;
@@ -136,25 +136,37 @@ background-color: #FF0000 !important;
 .wrapper {
 position: relative;
 width: 100%;
-background: white;
+background: #FFFCF7;
 overflow: hidden;
 }
 
 .sootnosheniye_index{
 position: relative;
 padding-bottom: 348.333333%;
-background: white;
+background: #FFFCF7;
 }
 
 .content {
 position: absolute;
 top: 0; bottom: 0; left: 0; right: 0; padding: 0;
-background: white;
+background: #FFFCF7;
 }
 
 /* IMAGES */
 
-.mainpgbgimg {
+.headerimg {
+width: 100%;
+margin-top: -2%;
+}
+
+.logoimg {}
+
+.logoimg_div {
+width: 6%;
+margin-top: -54%;
+margin-left: 3%;
+}
+/* .mainpgbgimg {
 width: 96%;
 margin-left: 2%;
 animation: mainbgan 7s steps(1) ;
@@ -246,17 +258,18 @@ width: 31.5%;
 
 .plakat6img {
 width: 71.6%;
-}
+} */
 
 /* GRIDS? */
 
-.first_half, .second_half {
+.head_half {
 position: relative;
 border: 1px solid black;
 }
 
-.first_half {
+.head_half {
 width: 100%;
+height: 20.2%;
 display: block;
 }
 
@@ -291,6 +304,14 @@ cursor: pointer;}
 .contacttxt:hover, .booktxt:hover, .prostranstvotxt:hover, .teamtxt:hover, .abouttxt:hover, .repertuartxt:hover, .plakat2txt:hover, .veta_r:hover, .veta_a:hover, .veta_t:hover, .veta_b:hover, .veta_g:hover, .veta_cn:hover, .veta_ss:hover, .veta_pr:hover {
 opacity: 0.75;
 }
+
+.headertxt_1 {
+margin-top: 5%;
+margin-left: 3%;
+font-size: 31px;
+}
+
+
 
 .eventstxt {
 left: 44.9%;
