@@ -85,7 +85,7 @@ background: black;
 outline-style: none;
 }
 
-.totry, .tofind, .tochoose, .tofind2 {padding: 18px 37px; border-radius: 35px;}
+.totry, .tofind, .tochoose, .tofind2 {padding: 18px 37px; border-radius: 35px; cursor: pointer;}
 
 .totry {
 margin-left: 3%;
@@ -105,7 +105,7 @@ color: black;
 
 .tofind {
 margin-left: 39%;
-margin-top: 6%;
+margin-top: 5%;
 }
 
 .tochoose {
@@ -115,7 +115,7 @@ margin-top: 6%;
 
 .tofind2 {
 margin-left: 41%;
-margin-top: 22%;
+margin-top: 27%;
 }
 
 
@@ -155,25 +155,23 @@ margin-left: 3%;
 
 .res_div{
 margin-left: 3%;
-margin-top: 70%;
-width: 31%;
+margin-top: 68%;
 }
 
 .resimg {}
 
+.res_div, .caf_div, .bar_div {width: 30%;}
 
 .caf_div{
-  margin-left: 34.45%;
-  margin-top: -43.25%;
-      width: 31%;
+      margin-left: 35%;
+  margin-top: -41.88%;
 }
 
 .cafimg {}
 
 .bar_div{
-margin-left: 65.9%;
-margin-top: -43.25%;
-width: 31%;
+margin-left: 66.9%;
+margin-top: -41.9%;
 }
 
 .barimg {}
@@ -221,8 +219,8 @@ width: 94%;
   margin-top: -30.6%;
   width: 94%;
   opacity: 0;
-  animation: change 3s infinite;
-  animation-timing-function: ease-in-out;
+  animation: change 5s infinite;
+  animation-timing-function: ease-out;
   }
 
   .reelcard2img {}
@@ -245,7 +243,7 @@ width: 386%;
 
 
 .kitchenimg {
-animation: kitchenan 45s infinite;
+animation: kitchenan 60s infinite;
 animation-play-state: running;
 animation-timing-function: ease-in;
 }
@@ -265,30 +263,23 @@ margin-left: 100%;
 opacity: 0.5;
 }
 
-.tg_div {
-  margin-left: 77.3%;
-      margin-top: 37%;
-  width: 20%;
-}
+.tgimg, .dzenimg {width: 15%;}
 
-.tgimg {
-  width: 15%;
+.tg_div {
+margin-left: 78.7%;
+margin-top: 41.5%;
+  width: 20%;
 }
 
 .dzen_div {
-  margin-left: 84.9%;
-      margin-top: -3.2%;
+margin-left: 85.9%;
+margin-top: -2.76%;
   width: 20%;
 }
 
-.dzenimg {
-  width: 15%;
-
-}
-
 .vk_div {
-  margin-left: 91.6%;
-      margin-top: -2.8%;
+  margin-left: 92.6%;
+margin-top: -2.55%;
   width: 20%;
 }
 
@@ -311,7 +302,7 @@ border: 0.01px solid #FE8C24;
 
 .head_half {
 width: 100%;
-height: 37.2%;
+height: 36.2%;
 display: block;
 }
 
@@ -332,7 +323,7 @@ margin-top: 3.7%;
 
 .footer_half {
 width: 100%;
-height: 33.2%;
+height: 13.2%;
 display: block;
 background-color: #FE8C24;
 }
@@ -378,25 +369,23 @@ margin-left: 3%;
 font-size: 23px;
 }
 
-.resttxt, .caftxt, .bartxt {font-size: 37px;}
+.resttxt, .caftxt, .bartxt {font-size: 35px;margin-top: -49%;}
 
 .resttxt {
-  margin-top: -52%;
-  margin-left: 6.5%;
+margin-left: 6.1%;
 }
 
 .bartxt {
-  margin-top: -52%;
   margin-left: 75%;
 }
 
 .caftxt {
-  margin-top: -52%;
   margin-left: 43%;
 }
 
 .infotxt_1, .infotxt_3, .kitchentxt_1 {font-size: 40px;}
 .infotxt_2, .infotxt_4, .kitchentxt_2, .footerrtxt_2, .footerrtxt_3, .footerrtxt_4 {font-size: 23px;}
+.footerrtxt_2, .footerrtxt_3, .footerrtxt_4 {margin-top: 42%;}
 
 .infotxt_1 {
 margin-top: 7%;
@@ -429,25 +418,22 @@ margin-left: 49.5%;
 }
 
 .footerrtxt_1 {
-  margin-top: 9%;
-  margin-left: 22%;
+  margin-top: 10%;
+  margin-left: 19%;
   font-size: 58px;
   text-align: center;
   vertical-align: top;
 }
 
 .footerrtxt_2 {
-margin-top: 38%;
 margin-left: 3%;
 }
 
 .footerrtxt_3 {
-margin-top: 38%;
 margin-left: 13.5%;
 }
 
 .footerrtxt_4 {
-margin-top: 38%;
 margin-left: 23%;
 }
 
