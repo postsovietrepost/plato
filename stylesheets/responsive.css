@@ -110,8 +110,8 @@ div .headertxt_2, div .headertxt_3 {opacity: 0}
 div .sootnosheniye_index{ padding-bottom: 1390.93333%;}
 div .logoimg_div {margin-top: -96%;}
 div .headertxt_1 {font-size: 32px;}
-div .headerimg {opacity: 0}
-div .header_mobile {opacity: 1}
+div .headerimg {display: none}
+div .header_mobile {display: block;}
 div .headertxt_4 {margin-top: 28%; font-size: 16px;}
 
 div .totry {margin-top: 151%;}
