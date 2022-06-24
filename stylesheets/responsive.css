@@ -12,7 +12,7 @@ div .caf_div, div .bar_div {margin-top: -40.45%;}
 div .infotxt_1, div .infotxt_3, div .kitchentxt_1 {font-size: 58px;}
 div .infotxt_2, div .infotxt_4, div .kitchentxt_2, div .footerrtxt_2, div .footerrtxt_3, div .footerrtxt_4 {font-size: 30px;}
 div .infotxt_4 {margin-top: 14.5%;}
-div .footerrtxt_1 {margin-left: 23%;font-size: 73px;}
+div .footerrtxt_1 {margin-left: 20%;font-size: 79px;}
 div .tofind2 {margin-left: 41%;}
 div .tofind {margin-top: 3%;}
 div .head_half {height: 37.2%;}
@@ -51,6 +51,68 @@ div .footerrtxt_1 {margin-left: 21%;}
 div .tofind2 {margin-top: 25%;}
 }
 
-@media all and (max-width: 1299px) and (min-width: 1100px){
+@media all and (max-width: 1299px) and (min-width: 1101px){
+div .headertxt_1 {font-size: 51px;}
+div .totry {margin-top: 27%;}
+div .dzen_div {margin-top: -3.2%;}
+div .vk_div {margin-top: -2.9%;}
+}
 
+@media all and (max-width: 1024px) and (min-width: 901px){
+div .headertxt_1 {font-size: 41px;}
+div .headertxt_4 {font-size: 18px;}
+div .button {font-size: 18px;}
+div .totry, div .tofind, div .tochoose, div .tofind2 {padding: 15px 30px;}
+div .resttxt, div .caftxt, div .bartxt {font-size: 27px;}
+div .infotxt_1, div .infotxt_3, div .kitchentxt_1 {font-size: 32px;}
+div .infotxt_2, div .infotxt_4, div .kitchentxt_2, div .footerrtxt_2, div .footerrtxt_3, div .footerrtxt_4 {font-size: 19px;}
+div .footerrtxt_1 {margin-left: 18%;font-size: 46px;}
+div .tofind2 {margin-left: 41%;margin-top: 26%;}
+div .dzen_div {margin-top: -3.4%;margin-left: 83.7%;}
+div .vk_div {margin-top: -2.8%;}
+div .tg_div {margin-left: 73.7%;}
+}
+
+@media all and (max-width: 900px) and (min-width: 769px){
+div .headertxt_1 {font-size: 37px;}
+div .headertxt_2, div .headertxt_3 {margin-top: -4.5%; font-size: 19px;}
+div .totry {margin-top: 26%;}
+div .button {font-size: 14px;}
+div .totry, div .tofind, div .tochoose, div .tofind2 {padding: 13px 26px;}
+div .resttxt, div .caftxt, div .bartxt {font-size: 24px;}
+div .infotxt_1, div .infotxt_3, div .kitchentxt_1 {font-size: 29px;}
+div .infotxt_2, div .infotxt_4, div .kitchentxt_2, div .footerrtxt_2, div .footerrtxt_3, div .footerrtxt_4, div .headertxt_4 {font-size: 17px;}
+div .footerrtxt_1 {margin-left: 18%;font-size: 40px;}
+div .tg_div {margin-left: 74.7%;}
+div .dzen_div {margin-left: 84.4%;margin-top: -3.5%;}
+div .vk_div {margin-top: -2.9%;}
+}
+
+@media all and (max-width: 768px) and (min-width: 501px){
+div .headertxt_1 {font-size: 34px;}
+div .headertxt_2, div .headertxt_3 {margin-top: -4.6%; font-size: 17px;}
+div .headertxt_4 {font-size: 15px;}
+div .totry {margin-top: 27%;}
+div .totry, div .tofind, div .tochoose, div .tofind2 {padding: 13px 27px;}
+div .button {font-size: 14px;}
+div .resttxt, div .caftxt, div .bartxt {font-size: 20px;}
+div .infotxt_1, div .infotxt_3, div .kitchentxt_1 {font-size: 24px;}
+div .infotxt_2, div .infotxt_4, div .kitchentxt_2, div .footerrtxt_2, div .footerrtxt_3, div .footerrtxt_4 {font-size: 16px;}
+div .footerrtxt_1 {margin-left: 17%;font-size: 35px;}
+div .tofind2 {margin-left: 40%;}
+div .tg_div {margin-left: 75.7%;}
+div .dzen_div {margin-left: 84.55%;margin-top: -3.4%;}
+div .vk_div {margin-top: -2.9%;}
+}
+
+@media all and (max-width: 500px){
+div .headertxt_2, div .headertxt_3 {opacity: 0}
+div .sootnosheniye_index{ padding-bottom: 1390.93333%;}
+div .logoimg_div {margin-top: -96%;}
+div .headertxt_1 {font-size: 32px;}
+div .headerimg {opacity: 0}
+div .header_mobile {opacity: 1}
+div .headertxt_4 {margin-top: 28%; font-size: 16px;}
+
+div .totry {margin-top: 151%;}
 }
