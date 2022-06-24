@@ -146,7 +146,7 @@ margin-top: -2%;
 }
 
 .header_mobile {
-  opacity: 0;
+  display: none;
 }
 
 .logoimg {}
