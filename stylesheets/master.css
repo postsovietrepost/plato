@@ -145,6 +145,10 @@ width: 100%;
 margin-top: -2%;
 }
 
+.header_mobile {
+  opacity: 0;
+}
+
 .logoimg {}
 
 .logoimg_div {
