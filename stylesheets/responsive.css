@@ -1,6 +1,6 @@
 /* INDEX */
 
-@media all and (max-width: 1920px) and (min-width: 1600px){
+@media all and (max-width: 1920px) and (min-width: 1640px){
 div .headertxt_1 {font-size: 72px;}
 div .headertxt_4 {margin-top: 16%;}
 div .headertxt_3, div .headertxt_2, div .headertxt_4 {font-size: 30px;}
@@ -56,6 +56,19 @@ div .headertxt_1 {font-size: 51px;}
 div .totry {margin-top: 27%;}
 div .dzen_div {margin-top: -3.2%;}
 div .vk_div {margin-top: -2.9%;}
+}
+
+@media all and (max-width: 1100px) and (min-width: 1025px){
+  div .headertxt_1 {font-size: 46px;}
+  div .headertxt_4 {font-size: 20px;}
+  div .totry {margin-top: 27%;}
+  div .totry, div .tofind, div .tochoose, div .tofind2 {padding: 16px 36px;}
+  div .resttxt, div .caftxt, div .bartxt {font-size: 29px;}
+  div .tofind {margin-left: 37%;}
+  div .infotxt_1, div .infotxt_3, div .kitchentxt_1 {font-size: 34px;}
+  div .infotxt_2, div .infotxt_4, div .kitchentxt_2, div .footerrtxt_2, div .footerrtxt_3, div .footerrtxt_4 {font-size: 20px;}
+div .footerrtxt_1 {margin-left: 18%; font-size: 48px;}
+
 }
 
 @media all and (max-width: 1024px) and (min-width: 901px){
