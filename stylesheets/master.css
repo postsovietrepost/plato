@@ -162,13 +162,22 @@ margin-left: 3%;
 margin-top: 68%;
 }
 
+.res_div_mobile {
+  display: none;
+}
+
 .resimg {}
 
 .res_div, .caf_div, .bar_div {width: 30%;}
+.res_div_mobile, .caf_div_mobile, .bar_div_mobile {width: 90%;}
 
 .caf_div{
       margin-left: 35%;
   margin-top: -41.88%;
+}
+
+.caf_div_mobile {
+  display: none;
 }
 
 .cafimg {}
@@ -178,12 +187,20 @@ margin-left: 66.9%;
 margin-top: -41.9%;
 }
 
+.bar_div_mobile {
+  display: none;
+}
+
 .barimg {}
 
 .blau_div {
 margin-left: 2.9%;
 margin-top: 22.75%;
 width: 94%;
+}
+
+.blau_div_mobile {
+  display: none;
 }
 
 .blauimg {}
@@ -216,6 +233,10 @@ margin-top: 29%;
 width: 94%;
 }
 
+.reelcard_div_mobile {
+  display: none;
+}
+
 .reelcardimg {}
 
   .reelcard2_div {
@@ -245,6 +266,9 @@ margin-top: 24%;
 width: 386%;
 }
 
+.kitchen_div_mobile {
+  display: none;
+}
 
 .kitchenimg {
 animation: kitchenan 60s infinite;
